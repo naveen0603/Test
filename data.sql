@@ -1,0 +1,1 @@
+Insert into table user values (1, 'Naveen Thogati');
